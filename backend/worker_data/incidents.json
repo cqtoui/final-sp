@@ -1,0 +1,4187 @@
+[
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_134025_532857_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:40:26.235Z",
+    "id": "dec5190a-51af-4129-ae1e-2821b6615b31",
+    "created_date": "2026-10-06T09:40:26.246970+00:00",
+    "updated_date": "2026-10-06T09:42:06.738193+00:00",
+    "resolved_at": "2026-10-06T09:42:06.723Z"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_133220_709773_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:32:21.850Z",
+    "id": "6b699f23-7575-467d-9cbb-bc1c6a24467d",
+    "created_date": "2026-10-06T09:32:21.869365+00:00",
+    "updated_date": "2026-10-06T09:42:08.155190+00:00",
+    "resolved_at": "2026-10-06T09:42:08.145Z"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_133209_114236_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:32:10.283Z",
+    "id": "f1d3291e-e6bb-47e8-8827-98b77367cd3d",
+    "created_date": "2026-10-06T09:32:10.301981+00:00",
+    "updated_date": "2026-10-06T09:32:10.301981+00:00"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_133157_522422_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:31:58.876Z",
+    "id": "d9edc5de-9791-4a94-be70-97574fd14942",
+    "created_date": "2026-10-06T09:31:58.900327+00:00",
+    "updated_date": "2026-10-06T09:31:58.900327+00:00"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_133139_858464_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:31:41.001Z",
+    "id": "e1741e2f-b0b1-4743-9e4b-1a82f958c73b",
+    "created_date": "2026-10-06T09:31:41.019406+00:00",
+    "updated_date": "2026-10-06T09:31:41.019406+00:00"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_133105_103237_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:31:06.163Z",
+    "id": "c4d2922f-0c56-4edc-b1c6-2009e4b0684d",
+    "created_date": "2026-10-06T09:31:06.182530+00:00",
+    "updated_date": "2026-10-06T09:31:06.182530+00:00"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132941_362241_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:29:42.598Z",
+    "id": "e2157b14-7e1e-4bdb-8408-ca5076310de9",
+    "created_date": "2026-10-06T09:29:42.617878+00:00",
+    "updated_date": "2026-10-06T09:29:42.617878+00:00"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132918_524152_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:29:19.627Z",
+    "id": "915e5ad3-03ea-4d18-bb96-d4e5d20c3807",
+    "created_date": "2026-10-06T09:29:19.646548+00:00",
+    "updated_date": "2026-10-06T09:29:19.646548+00:00"
+  },
+  {
+    "worker_id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "worker_name": "Sara",
+    "department": "warehouse",
+    "missing_gear": [
+      "goggles"
+    ],
+    "detected_gear": [
+      "gloves",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132826_544146_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:28:27.743Z",
+    "id": "c6f4697e-f532-4875-a253-566f99fc0b3b",
+    "created_date": "2026-10-06T09:28:27.759867+00:00",
+    "updated_date": "2026-10-06T09:28:27.759867+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "gloves",
+      "goggles"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132625_698843_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:26:26.883Z",
+    "id": "3d2a6611-4c0e-4d36-aa0b-7842637ae6aa",
+    "created_date": "2026-10-06T09:26:26.900962+00:00",
+    "updated_date": "2026-10-06T09:26:26.900962+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132621_635490_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:26:22.763Z",
+    "id": "d53c327d-b063-4009-b135-38da7c18015e",
+    "created_date": "2026-10-06T09:26:22.785052+00:00",
+    "updated_date": "2026-10-06T09:26:22.785052+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132606_869054_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:26:08.292Z",
+    "id": "df078a6b-028c-46dc-b3da-e5a97ddb5eb5",
+    "created_date": "2026-10-06T09:26:08.313455+00:00",
+    "updated_date": "2026-10-06T09:26:08.313455+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132556_302427_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:25:57.355Z",
+    "id": "beb23942-f77b-44f2-b219-2fb826e9f152",
+    "created_date": "2026-10-06T09:25:57.373267+00:00",
+    "updated_date": "2026-10-06T09:25:57.373267+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132516_214131_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:25:17.528Z",
+    "id": "f051da0b-b5d2-4127-9c83-dd99bfca869b",
+    "created_date": "2026-10-06T09:25:17.546485+00:00",
+    "updated_date": "2026-10-06T09:25:17.546485+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132505_192015_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:25:06.397Z",
+    "id": "e547eac3-ccd8-4697-8a28-b2fc1ee37728",
+    "created_date": "2026-10-06T09:25:06.414606+00:00",
+    "updated_date": "2026-10-06T09:25:06.414606+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132358_034220_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:23:59.116Z",
+    "id": "e243dcf2-2119-44f5-b20b-aeb9ec48ecd7",
+    "created_date": "2026-10-06T09:23:59.138001+00:00",
+    "updated_date": "2026-10-06T09:23:59.138001+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132328_915672_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:23:30.047Z",
+    "id": "b3ed86e7-dcf4-4136-a8a7-7a19463065ba",
+    "created_date": "2026-10-06T09:23:30.073118+00:00",
+    "updated_date": "2026-10-06T09:23:30.073118+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132242_028707_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:22:43.135Z",
+    "id": "d271a126-95a0-43fb-ba1b-596365fa3b3c",
+    "created_date": "2026-10-06T09:22:43.156635+00:00",
+    "updated_date": "2026-10-06T09:22:43.156635+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132234_401650_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:22:35.460Z",
+    "id": "28d02f73-cde6-4429-820e-2e807a09db90",
+    "created_date": "2026-10-06T09:22:35.483165+00:00",
+    "updated_date": "2026-10-06T09:22:35.483165+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132221_095808_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:22:22.301Z",
+    "id": "e56f032f-373d-4915-9282-258103df07e6",
+    "created_date": "2026-10-06T09:22:22.320549+00:00",
+    "updated_date": "2026-10-06T09:22:22.320549+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132140_407423_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:21:41.382Z",
+    "id": "490d8faf-136d-47ab-8214-076fe49184be",
+    "created_date": "2026-10-06T09:21:41.402694+00:00",
+    "updated_date": "2026-10-06T09:21:41.402694+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261006_132134_396851_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-06T09:21:35.318Z",
+    "id": "88a73cae-8633-4a43-996a-b07fe28243ba",
+    "created_date": "2026-10-06T09:21:35.382284+00:00",
+    "updated_date": "2026-10-06T09:21:35.382284+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_172612_710878_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T13:26:13.675Z",
+    "id": "9691d960-e138-47a1-8b0b-6ec09431e608",
+    "created_date": "2026-10-05T13:26:13.695400+00:00",
+    "updated_date": "2026-10-05T13:26:13.695400+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_172546_555732_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T13:25:47.899Z",
+    "id": "038f8d07-aeae-4ec4-8a21-2551cc710cd9",
+    "created_date": "2026-10-05T13:25:47.918757+00:00",
+    "updated_date": "2026-10-05T13:25:47.918757+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_170905_326375_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T13:09:06.042Z",
+    "id": "f46f3292-8ca3-4300-ab39-70e57f16ec72",
+    "created_date": "2026-10-05T13:09:06.053748+00:00",
+    "updated_date": "2026-10-05T13:09:06.053748+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "General",
+    "missing_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Default Entry",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_170856_194006_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T13:08:56.896Z",
+    "id": "14c69030-180f-4844-8fd5-400c3104bd9a",
+    "created_date": "2026-10-05T13:08:56.909357+00:00",
+    "updated_date": "2026-10-05T13:08:56.909357+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165636_426052_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:56:37.326Z",
+    "id": "88c18da9-adf0-4cd3-8017-6160c6b10ba6",
+    "created_date": "2026-10-05T12:56:37.341028+00:00",
+    "updated_date": "2026-10-05T12:56:37.341028+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165510_258937_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:55:11.151Z",
+    "id": "ca1023e4-09e7-4de5-923f-9d36a878d15b",
+    "created_date": "2026-10-05T12:55:11.168582+00:00",
+    "updated_date": "2026-10-05T12:55:11.168582+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165114_290982_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:51:15.322Z",
+    "id": "4a291f66-78b5-4f3e-a436-10b8b5c57c7b",
+    "created_date": "2026-10-05T12:51:15.340384+00:00",
+    "updated_date": "2026-10-05T12:51:15.340384+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165104_182734_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:51:05.192Z",
+    "id": "6e3cebfe-f8a5-4898-b759-3110bf1b89f9",
+    "created_date": "2026-10-05T12:51:05.209495+00:00",
+    "updated_date": "2026-10-05T12:51:05.209495+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165050_662360_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:50:51.704Z",
+    "id": "2ce92859-f174-4274-972e-6d71826b3d9e",
+    "created_date": "2026-10-05T12:50:51.721665+00:00",
+    "updated_date": "2026-10-05T12:50:51.721665+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165020_914013_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:50:22.164Z",
+    "id": "6d8a6a27-e345-4246-ac71-f6a880ede5d4",
+    "created_date": "2026-10-05T12:50:22.179752+00:00",
+    "updated_date": "2026-10-05T12:50:22.179752+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165017_662122_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:50:18.683Z",
+    "id": "7ff7ffbc-43b4-4d06-a646-051a7b4b10b4",
+    "created_date": "2026-10-05T12:50:18.698857+00:00",
+    "updated_date": "2026-10-05T12:50:18.698857+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_165009_378239_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:50:10.480Z",
+    "id": "0e4e61dd-9231-4132-9c8f-949fbb039bf2",
+    "created_date": "2026-10-05T12:50:10.499397+00:00",
+    "updated_date": "2026-10-05T12:50:10.499397+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164857_824407_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:48:58.925Z",
+    "id": "775551b4-dd4f-43d9-821d-070132c10c6a",
+    "created_date": "2026-10-05T12:48:58.942900+00:00",
+    "updated_date": "2026-10-05T12:48:58.942900+00:00"
+  },
+  {
+    "worker_id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164843_063459_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:48:44.140Z",
+    "id": "8d29e325-5beb-48fb-8175-7df3dc65c7ce",
+    "created_date": "2026-10-05T12:48:44.155636+00:00",
+    "updated_date": "2026-10-05T12:48:44.155636+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164755_916060_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:47:56.923Z",
+    "id": "2a03ed0d-4cb2-4c81-8883-b76a73224f9e",
+    "created_date": "2026-10-05T12:47:56.942093+00:00",
+    "updated_date": "2026-10-05T12:47:56.942093+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164745_141099_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:47:46.217Z",
+    "id": "5aa4a695-b1ce-432b-abb4-f41d0cd0d5bd",
+    "created_date": "2026-10-05T12:47:46.234040+00:00",
+    "updated_date": "2026-10-05T12:47:46.234040+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164652_625778_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:46:53.723Z",
+    "id": "e4cfa91e-f942-430e-bb07-58321d69e12e",
+    "created_date": "2026-10-05T12:46:53.740098+00:00",
+    "updated_date": "2026-10-05T12:46:53.740098+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164640_043642_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:46:41.051Z",
+    "id": "6e0a2c53-a082-412a-a5c9-5206fc9f801b",
+    "created_date": "2026-10-05T12:46:41.069843+00:00",
+    "updated_date": "2026-10-05T12:46:41.069843+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164605_517676_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:46:06.611Z",
+    "id": "38ee25ce-3478-4651-bce0-58162caf53aa",
+    "created_date": "2026-10-05T12:46:06.631553+00:00",
+    "updated_date": "2026-10-05T12:46:06.631553+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164541_461932_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:45:42.434Z",
+    "id": "62b4e3a1-e9e1-4f31-bc4e-e5085fe6fd76",
+    "created_date": "2026-10-05T12:45:42.451219+00:00",
+    "updated_date": "2026-10-05T12:45:42.451219+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164519_168525_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:45:20.188Z",
+    "id": "ddcb7ee7-2f93-4991-aead-408219f23fbc",
+    "created_date": "2026-10-05T12:45:20.205553+00:00",
+    "updated_date": "2026-10-05T12:45:20.205553+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Main Gate A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164412_344709_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:44:13.352Z",
+    "id": "e28546b4-3125-4fd3-809f-09de9fdfa30d",
+    "created_date": "2026-10-05T12:44:13.367466+00:00",
+    "updated_date": "2026-10-05T12:44:13.367466+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Main Gate A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164408_457309_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:44:09.533Z",
+    "id": "f0dc85e0-a3a4-4145-aae3-fb0a597269dc",
+    "created_date": "2026-10-05T12:44:09.552237+00:00",
+    "updated_date": "2026-10-05T12:44:09.552237+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Main Gate A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164404_469294_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:44:05.496Z",
+    "id": "24110968-ae3b-469a-ab25-d29a41ea14a5",
+    "created_date": "2026-10-05T12:44:05.513058+00:00",
+    "updated_date": "2026-10-05T12:44:05.513058+00:00"
+  },
+  {
+    "worker_id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Main Gate A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164400_014805_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:44:01.054Z",
+    "id": "07839bbc-47a5-45ca-a2fb-8c0336fed621",
+    "created_date": "2026-10-05T12:44:01.090707+00:00",
+    "updated_date": "2026-10-05T12:44:01.090707+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164340_598798_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:43:41.683Z",
+    "id": "00becb0a-f08a-4db5-8f53-5db185700807",
+    "created_date": "2026-10-05T12:43:41.700921+00:00",
+    "updated_date": "2026-10-05T12:43:41.700921+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164150_239751_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:41:51.170Z",
+    "id": "b7569359-c4d1-4c42-9972-05a905391e55",
+    "created_date": "2026-10-05T12:41:51.185933+00:00",
+    "updated_date": "2026-10-05T12:41:51.185933+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles"
+    ],
+    "detected_gear": [
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164144_517816_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:41:45.467Z",
+    "id": "0027455e-c387-4240-9206-59c0b85befad",
+    "created_date": "2026-10-05T12:41:45.483873+00:00",
+    "updated_date": "2026-10-05T12:41:45.483873+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164138_321066_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:41:39.523Z",
+    "id": "2231a516-2e9b-4512-8234-469d61d1cf50",
+    "created_date": "2026-10-05T12:41:39.540013+00:00",
+    "updated_date": "2026-10-05T12:41:39.540013+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164120_590682_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:41:21.512Z",
+    "id": "72a1eccc-bf7f-4d24-b2a8-05104a463b19",
+    "created_date": "2026-10-05T12:41:21.529527+00:00",
+    "updated_date": "2026-10-05T12:41:21.529527+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164114_817061_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:41:15.958Z",
+    "id": "9ad657ed-f4a5-4549-9eff-cb38dad90027",
+    "created_date": "2026-10-05T12:41:15.975568+00:00",
+    "updated_date": "2026-10-05T12:41:15.975568+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "gloves",
+      "goggles"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164051_863463_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:40:52.829Z",
+    "id": "f62b3d5c-faf6-48c5-9afe-c14c1c39eb73",
+    "created_date": "2026-10-05T12:40:52.848112+00:00",
+    "updated_date": "2026-10-05T12:40:52.848112+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164032_687677_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:40:33.652Z",
+    "id": "75d8680d-3e04-4d04-8dd8-67daced7ba95",
+    "created_date": "2026-10-05T12:40:33.669381+00:00",
+    "updated_date": "2026-10-05T12:40:33.669381+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164009_344794_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:40:10.301Z",
+    "id": "abe8afab-71a8-4e4f-9e62-3c6fac81f5e7",
+    "created_date": "2026-10-05T12:40:10.319940+00:00",
+    "updated_date": "2026-10-05T12:40:10.319940+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "ear_protection",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_164004_829768_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:40:05.758Z",
+    "id": "3cd0ecd2-674a-4aba-a92e-0f62b08e0f19",
+    "created_date": "2026-10-05T12:40:05.776127+00:00",
+    "updated_date": "2026-10-05T12:40:05.776127+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_163811_376066_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:38:12.368Z",
+    "id": "2d577485-e098-425f-910a-a84e8fee92d8",
+    "created_date": "2026-10-05T12:38:12.385361+00:00",
+    "updated_date": "2026-10-05T12:38:12.385361+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_163806_506617_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:38:07.429Z",
+    "id": "7f1e36af-d265-4588-904f-154ede36cb7c",
+    "created_date": "2026-10-05T12:38:07.448978+00:00",
+    "updated_date": "2026-10-05T12:38:07.448978+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_163748_960539_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:37:49.910Z",
+    "id": "d761b47a-176e-4e20-8924-e33ab4463ba5",
+    "created_date": "2026-10-05T12:37:49.927590+00:00",
+    "updated_date": "2026-10-05T12:37:49.927590+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_163736_041841_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:37:36.973Z",
+    "id": "dc521c93-8c42-40f3-a154-6fac376bd173",
+    "created_date": "2026-10-05T12:37:36.991264+00:00",
+    "updated_date": "2026-10-05T12:37:36.991264+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_163731_900956_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:37:32.967Z",
+    "id": "7072d2eb-6e89-46da-b36f-b3a1debe0e33",
+    "created_date": "2026-10-05T12:37:32.986305+00:00",
+    "updated_date": "2026-10-05T12:37:32.986305+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_163408_297524_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:34:09.286Z",
+    "id": "e18715fa-604f-4c88-adda-a294680f5ac3",
+    "created_date": "2026-10-05T12:34:09.304987+00:00",
+    "updated_date": "2026-10-05T12:34:09.304987+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261005_163333_725454_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-05T12:33:35.474Z",
+    "id": "f7657998-29fc-4e52-9eec-a637572f58b7",
+    "created_date": "2026-10-05T12:33:35.522532+00:00",
+    "updated_date": "2026-10-05T12:33:35.522532+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192355_942999_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:23:57.111Z",
+    "id": "1ba765c3-038b-4c10-8daf-679a0b5b393e",
+    "created_date": "2026-10-04T15:23:57.129694+00:00",
+    "updated_date": "2026-10-04T15:23:57.129694+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192353_545754_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:23:54.712Z",
+    "id": "0513ff04-75c8-47eb-ab28-88dd06fbdcd8",
+    "created_date": "2026-10-04T15:23:54.729382+00:00",
+    "updated_date": "2026-10-04T15:23:54.729382+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192351_266392_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:23:52.513Z",
+    "id": "acc83a62-c3dd-4cc6-a8be-e163adf74ecc",
+    "created_date": "2026-10-04T15:23:52.530368+00:00",
+    "updated_date": "2026-10-04T15:23:52.530368+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192347_029485_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:23:48.279Z",
+    "id": "6820885b-e280-4128-849f-bb056ef499ce",
+    "created_date": "2026-10-04T15:23:48.296096+00:00",
+    "updated_date": "2026-10-04T15:23:48.296096+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192328_357462_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:23:29.526Z",
+    "id": "2c6294b5-49bb-4a1d-8505-731afdcc167c",
+    "created_date": "2026-10-04T15:23:29.544308+00:00",
+    "updated_date": "2026-10-04T15:23:29.544308+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192324_993125_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:23:26.176Z",
+    "id": "acd9d2b5-d76c-4164-b696-94eff8c649e5",
+    "created_date": "2026-10-04T15:23:26.194222+00:00",
+    "updated_date": "2026-10-04T15:23:26.194222+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192302_945978_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:23:04.127Z",
+    "id": "efd670d1-dfed-491f-a047-460bc289b0f7",
+    "created_date": "2026-10-04T15:23:04.144671+00:00",
+    "updated_date": "2026-10-04T15:23:04.144671+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192257_803751_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:22:59.008Z",
+    "id": "15e125ad-d520-4470-aa2f-6e9850f013e4",
+    "created_date": "2026-10-04T15:22:59.025278+00:00",
+    "updated_date": "2026-10-04T15:22:59.025278+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192203_860447_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:22:05.856Z",
+    "id": "44a04a83-2adb-41a2-9262-29d2f148bfd8",
+    "created_date": "2026-10-04T15:22:05.874269+00:00",
+    "updated_date": "2026-10-04T15:22:05.875268+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192159_109231_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:22:00.642Z",
+    "id": "b2bdbb0f-4021-44a4-8cec-031078825167",
+    "created_date": "2026-10-04T15:22:00.668940+00:00",
+    "updated_date": "2026-10-04T15:22:00.668940+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192133_275198_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:21:34.498Z",
+    "id": "e68cea6c-4aef-4bb1-88a7-9aadaae4533a",
+    "created_date": "2026-10-04T15:21:34.518593+00:00",
+    "updated_date": "2026-10-04T15:21:34.518593+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192130_187918_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:21:32.021Z",
+    "id": "aabeef45-9e0f-4e3b-9842-942a42de4987",
+    "created_date": "2026-10-04T15:21:32.037580+00:00",
+    "updated_date": "2026-10-04T15:21:32.037580+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192123_287163_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:21:24.694Z",
+    "id": "c726efb5-cecb-4419-ab14-9ff3b4345a56",
+    "created_date": "2026-10-04T15:21:24.712285+00:00",
+    "updated_date": "2026-10-04T15:21:24.712285+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192113_232203_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:21:14.574Z",
+    "id": "14b48b59-92ee-4385-9d16-dcab449038c7",
+    "created_date": "2026-10-04T15:21:14.588894+00:00",
+    "updated_date": "2026-10-04T15:21:14.588894+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192106_421248_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:21:08.745Z",
+    "id": "ef421796-9c8b-428b-bcab-180e11691464",
+    "created_date": "2026-10-04T15:21:08.761359+00:00",
+    "updated_date": "2026-10-04T15:21:08.761359+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192100_194532_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:21:02.646Z",
+    "id": "8547d736-6c50-4bba-ac85-09a67b807f81",
+    "created_date": "2026-10-04T15:21:02.663606+00:00",
+    "updated_date": "2026-10-04T15:21:02.663606+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192051_243899_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:20:53.410Z",
+    "id": "8f9b69ec-8b68-4565-afc1-6dd9c80cc397",
+    "created_date": "2026-10-04T15:20:53.428672+00:00",
+    "updated_date": "2026-10-04T15:20:53.428672+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192041_373235_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:20:42.966Z",
+    "id": "4ac97e7a-6122-4055-a32c-52b53163d0e6",
+    "created_date": "2026-10-04T15:20:42.992224+00:00",
+    "updated_date": "2026-10-04T15:20:42.992224+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192018_262230_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:20:19.875Z",
+    "id": "c267d534-b221-43c3-8df6-fec2b698bfcb",
+    "created_date": "2026-10-04T15:20:19.894037+00:00",
+    "updated_date": "2026-10-04T15:20:19.894037+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_192006_635685_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:20:10.142Z",
+    "id": "88205f1c-0a4f-46dc-a0c3-a24a017500c2",
+    "created_date": "2026-10-04T15:20:10.184051+00:00",
+    "updated_date": "2026-10-04T15:20:10.184051+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_191931_557829_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:19:33.173Z",
+    "id": "63355d28-2c82-4877-9529-242c3adda1b8",
+    "created_date": "2026-10-04T15:19:33.191993+00:00",
+    "updated_date": "2026-10-04T15:19:33.191993+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_191922_897336_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:19:24.388Z",
+    "id": "fcad754b-7fee-41e7-9d6d-2e7b98f5882e",
+    "created_date": "2026-10-04T15:19:24.413609+00:00",
+    "updated_date": "2026-10-04T15:19:24.413609+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_191907_847516_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:19:09.230Z",
+    "id": "565b7953-5004-4f40-a0c1-7ca9663a2613",
+    "created_date": "2026-10-04T15:19:09.247145+00:00",
+    "updated_date": "2026-10-04T15:19:09.247145+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_191825_699470_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:18:27.336Z",
+    "id": "e7457f1b-05b2-4a70-9c57-088fa26ed1e9",
+    "created_date": "2026-10-04T15:18:27.355891+00:00",
+    "updated_date": "2026-10-04T15:18:27.355891+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261004_191803_277777_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-04T15:18:06.707Z",
+    "id": "8d0dd5e0-259e-4f5d-8c4f-69d74cc034d3",
+    "created_date": "2026-10-04T15:18:06.761536+00:00",
+    "updated_date": "2026-10-04T15:18:06.761536+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20261001_084524_136576_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-10-01T04:45:25.350Z",
+    "id": "6f6ab692-3baf-4e42-9f17-a0e7187d2c4c",
+    "created_date": "2026-10-01T04:45:25.375575+00:00",
+    "updated_date": "2026-10-01T04:45:25.375575+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_203701_679899_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:37:03.446Z",
+    "id": "8efd5fae-e5b9-49f8-97d8-99f2cf2ab6ca",
+    "created_date": "2026-09-30T16:37:03.460581+00:00",
+    "updated_date": "2026-10-01T04:26:40.346800+00:00",
+    "resolved_at": "2026-10-01T04:26:40.307Z"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "General",
+    "missing_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Default Entry",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_203652_471716_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:36:55.717Z",
+    "id": "0dfabea0-91c8-42f7-82f6-9337415e5f23",
+    "created_date": "2026-09-30T16:36:55.757649+00:00",
+    "updated_date": "2026-09-30T16:36:55.757649+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_203124_373671_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:31:26.486Z",
+    "id": "00f2d61d-666c-4407-b8d8-fda71c5e5d24",
+    "created_date": "2026-09-30T16:31:26.560186+00:00",
+    "updated_date": "2026-10-01T04:26:42.693566+00:00",
+    "resolved_at": "2026-10-01T04:26:42.681Z"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_201553_223655_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:15:54.293Z",
+    "id": "bad43875-d6dc-4c8c-bb93-a2bddabbb381",
+    "created_date": "2026-09-30T16:15:54.311623+00:00",
+    "updated_date": "2026-10-01T04:26:41.996288+00:00",
+    "resolved_at": "2026-10-01T04:26:41.982Z"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_201532_720192_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:15:33.715Z",
+    "id": "08ef0155-7f17-4d24-bf98-470ebfb8d001",
+    "created_date": "2026-09-30T16:15:33.734308+00:00",
+    "updated_date": "2026-09-30T16:15:33.734308+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_201525_164494_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:15:26.417Z",
+    "id": "9c192079-9800-46f1-9994-d0067f90f59f",
+    "created_date": "2026-09-30T16:15:26.435100+00:00",
+    "updated_date": "2026-09-30T16:15:26.435100+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200939_793045_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:09:40.962Z",
+    "id": "a0f79909-976a-40ac-8d7f-b11be9eaf3ec",
+    "created_date": "2026-09-30T16:09:40.980894+00:00",
+    "updated_date": "2026-09-30T16:09:40.980894+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200933_939204_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:09:35.172Z",
+    "id": "4b633206-262b-4e3d-a2dd-e1a9e1cbb97a",
+    "created_date": "2026-09-30T16:09:35.204573+00:00",
+    "updated_date": "2026-09-30T16:09:35.204573+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200906_717146_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:09:07.732Z",
+    "id": "70bf7b26-ad5c-4a55-b823-1f7a860fd182",
+    "created_date": "2026-09-30T16:09:07.748283+00:00",
+    "updated_date": "2026-09-30T16:09:07.748283+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200653_574335_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:06:54.619Z",
+    "id": "dc6d4d46-5945-4f18-830b-876487acc8cf",
+    "created_date": "2026-09-30T16:06:54.638101+00:00",
+    "updated_date": "2026-09-30T16:06:54.638101+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200454_473292_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:04:55.772Z",
+    "id": "94ef1a9f-ed7b-485a-920d-14ed61771931",
+    "created_date": "2026-09-30T16:04:55.791000+00:00",
+    "updated_date": "2026-09-30T16:04:55.791000+00:00"
+  },
+  {
+    "worker_id": "7b111094-2867-4570-9b10-a27c465074b8",
+    "worker_name": "Aisha",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200428_809096_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:04:30.016Z",
+    "id": "4786dc2c-7f78-4016-b00d-d1d0aa60c900",
+    "created_date": "2026-09-30T16:04:30.034898+00:00",
+    "updated_date": "2026-09-30T16:04:30.034898+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200348_488766_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:03:49.506Z",
+    "id": "0b59be58-b1a2-4d8c-b727-e57d33d585c9",
+    "created_date": "2026-09-30T16:03:49.522461+00:00",
+    "updated_date": "2026-09-30T16:03:49.522461+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200317_928501_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:03:18.960Z",
+    "id": "9d4c277b-f820-43ce-bd0e-7b21c6189f71",
+    "created_date": "2026-09-30T16:03:18.978025+00:00",
+    "updated_date": "2026-09-30T16:03:18.978025+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200232_426834_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:02:33.487Z",
+    "id": "58699e73-1707-46d2-b62c-35bd3e1cf021",
+    "created_date": "2026-09-30T16:02:33.505334+00:00",
+    "updated_date": "2026-09-30T16:02:33.505334+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves",
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200219_809988_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:02:20.823Z",
+    "id": "112bc290-a58a-4095-af13-c90fde0d2bed",
+    "created_date": "2026-09-30T16:02:20.841217+00:00",
+    "updated_date": "2026-09-30T16:02:20.841217+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200140_806889_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:01:41.978Z",
+    "id": "33498902-17cb-487b-9dcf-faed56ab4165",
+    "created_date": "2026-09-30T16:01:41.995471+00:00",
+    "updated_date": "2026-09-30T16:01:41.995471+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200131_505068_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:01:32.486Z",
+    "id": "5c122ca1-ce03-47c1-9745-42013e9ad296",
+    "created_date": "2026-09-30T16:01:32.506679+00:00",
+    "updated_date": "2026-09-30T16:01:32.506679+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "maintenance",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260930_200107_960513_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-30T16:01:09.369Z",
+    "id": "dd550019-3aa3-4dfa-9108-8a9a3500c3cd",
+    "created_date": "2026-09-30T16:01:09.394410+00:00",
+    "updated_date": "2026-09-30T16:01:09.394410+00:00"
+  },
+  {
+    "worker_id": "",
+    "worker_name": "Unknown Worker",
+    "department": "General",
+    "missing_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Default Entry",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260929_195839_879987_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-29T15:58:40.580Z",
+    "id": "7304eddb-60bf-465c-943e-9b0437a6a414",
+    "created_date": "2026-09-29T15:58:40.600676+00:00",
+    "updated_date": "2026-09-29T15:58:40.600676+00:00"
+  },
+  {
+    "worker_id": "dad530d7-6e24-4610-b8f7-e8f9bcda5ddf",
+    "worker_name": "Omar Al Mansoori",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [
+      "ear_protection"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "resolved",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_110649_884762_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T07:06:51.638Z",
+    "id": "20d46b67-4d76-429b-a242-1696f1006341",
+    "created_date": "2026-09-11T07:06:51.653478+00:00",
+    "updated_date": "2026-09-17T17:12:20.715289+00:00",
+    "resolved_at": "2026-09-17T17:12:20.695Z"
+  },
+  {
+    "worker_id": "f7675da5-8d75-45ab-8ddb-d6c82ddcbd95",
+    "worker_name": "Fatima Al Suwaidi",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Chemical Storage A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_105513_626003_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:55:15.962Z",
+    "id": "dec87da7-cd1b-4343-827b-873a7280cf5c",
+    "created_date": "2026-09-11T06:55:15.982041+00:00",
+    "updated_date": "2026-09-11T07:04:49.922275+00:00",
+    "resolved_at": "2026-09-11T07:04:49.878Z"
+  },
+  {
+    "worker_id": "a278c922-4a82-4e02-95a9-90a5c702f0f0",
+    "worker_name": "Hassan Al Nuaimi",
+    "department": "maintenance",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Maintenance Bay 1",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_105112_057615_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:51:13.045Z",
+    "id": "b4f3b09b-97d7-4382-876f-5a7efe45ea99",
+    "created_date": "2026-09-11T06:51:13.059757+00:00",
+    "updated_date": "2026-09-11T06:51:13.059757+00:00"
+  },
+  {
+    "worker_id": "9ac28174-88fe-4362-8b99-ba0bca0603d2",
+    "worker_name": "Mariam Al Blooshi",
+    "department": "assembly",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Paint Booth",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_105049_662091_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:50:50.594Z",
+    "id": "fc319307-d000-4ec6-aa43-926567cd34f2",
+    "created_date": "2026-09-11T06:50:50.608811+00:00",
+    "updated_date": "2026-09-11T06:50:50.608811+00:00"
+  },
+  {
+    "worker_id": "6a34b2f7-7cfc-42e9-b548-aea8b4b3e3f8",
+    "worker_name": "Khalid Al Shamsi",
+    "department": "electrical",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Switchgear Room",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_105028_837652_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:50:29.910Z",
+    "id": "6fc32754-e074-4e01-a9f2-64b00818fa73",
+    "created_date": "2026-09-11T06:50:29.925112+00:00",
+    "updated_date": "2026-09-11T06:50:29.925112+00:00"
+  },
+  {
+    "worker_id": "3bedb756-8430-4b56-8398-2f06380a8731",
+    "worker_name": "Noura Al Kaabi",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "safety_vest"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Visitor Entrance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_104945_313991_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:49:46.223Z",
+    "id": "dd4382e9-fbfd-4884-ae56-fc64b8899859",
+    "created_date": "2026-09-11T06:49:46.234051+00:00",
+    "updated_date": "2026-09-11T06:49:46.234051+00:00"
+  },
+  {
+    "worker_id": "552f49ee-355e-4080-9bbb-e6cb5c74b23b",
+    "worker_name": "Yousef Al Dhaheri",
+    "department": "maintenance",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Tool Crib",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_104937_368418_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:49:38.578Z",
+    "id": "a390f148-1f13-41c3-a296-61b160e7ec40",
+    "created_date": "2026-09-11T06:49:38.594848+00:00",
+    "updated_date": "2026-09-11T06:49:38.594848+00:00"
+  },
+  {
+    "worker_id": "2b655ae5-6ef0-48bc-9a3c-e979ed805d08",
+    "worker_name": "Layla Al Mazrouei",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical Storage B",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_104422_573124_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:44:23.754Z",
+    "id": "3846a8cd-78e8-4ac2-8e69-c96777b6b113",
+    "created_date": "2026-09-11T06:44:23.767624+00:00",
+    "updated_date": "2026-09-11T06:44:23.767624+00:00"
+  },
+  {
+    "worker_id": "09d6d44d-361f-4ad6-98e9-14ad633c48b6",
+    "worker_name": "Saeed Al Qubaisi",
+    "department": "assembly",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Assembly Line North",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_104315_447467_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:43:16.584Z",
+    "id": "fa7463ff-c81a-4b6a-898f-b2ae35673f47",
+    "created_date": "2026-09-11T06:43:16.604667+00:00",
+    "updated_date": "2026-09-11T06:43:16.604667+00:00"
+  },
+  {
+    "worker_id": "6dfd4583-bf61-4962-b7d0-ee49295a89f3",
+    "worker_name": "Hessa Al Ketbi",
+    "department": "electrical",
+    "missing_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "goggles"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Electrical Workshop",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_104246_202231_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:42:47.321Z",
+    "id": "fe7754b6-e0c6-49a0-adcf-3d61f0b434b9",
+    "created_date": "2026-09-11T06:42:47.336989+00:00",
+    "updated_date": "2026-09-11T06:42:47.336989+00:00"
+  },
+  {
+    "worker_id": "aa9578a0-3428-4eef-a419-1ecca7b0620a",
+    "worker_name": "Majid Al Falasi",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Loading Dock 1",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260911_103952_442446_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-11T06:39:54.377Z",
+    "id": "22f61ac6-b79f-4ddb-8fd7-592d36492d32",
+    "created_date": "2026-09-11T06:39:54.396864+00:00",
+    "updated_date": "2026-09-11T06:39:54.396864+00:00"
+  },
+  {
+    "worker_id": "c702f2a4-c2f6-482e-9dc0-c873338cbaae",
+    "worker_name": "Amina Al Shehhi",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical Storage A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_191425_526883_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T15:14:26.239Z",
+    "id": "55683a64-e960-486d-a241-16fbe69327c5",
+    "created_date": "2026-09-10T15:14:26.252234+00:00",
+    "updated_date": "2026-09-10T15:14:26.252234+00:00"
+  },
+  {
+    "worker_id": "5da50b13-b6ee-4486-96bb-8f99efc506c7",
+    "worker_name": "Rashid Al Harmoudi",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Maintenance Bay 1",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_182258_806320_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:23:02.369Z",
+    "id": "1eef4f1c-bf54-4d93-9e84-35ab28f70144",
+    "created_date": "2026-09-10T14:23:02.381803+00:00",
+    "updated_date": "2026-09-10T14:23:02.381803+00:00"
+  },
+  {
+    "worker_id": "0c58f718-9040-401d-b771-03ca53205d69",
+    "worker_name": "Moza Al Zaabi",
+    "department": "assembly",
+    "missing_gear": [
+      "gloves",
+      "goggles"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Assembly Line South",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_182215_612348_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:22:19.041Z",
+    "id": "2ba535eb-0d32-40f9-9707-21a848810af6",
+    "created_date": "2026-09-10T14:22:19.056474+00:00",
+    "updated_date": "2026-09-10T14:22:19.056474+00:00"
+  },
+  {
+    "worker_id": "125d2650-625c-42a8-9d80-14383773c869",
+    "worker_name": "Tariq Al Marri",
+    "department": "electrical",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Transformer Yard",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_182209_460281_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:22:10.227Z",
+    "id": "59da3c66-e596-4b03-b3c6-19a092423fca",
+    "created_date": "2026-09-10T14:22:10.247050+00:00",
+    "updated_date": "2026-09-10T14:22:10.247050+00:00"
+  },
+  {
+    "worker_id": "239cca9a-d575-4219-97ec-aafe1d212620",
+    "worker_name": "Shaikha Al Muhairi",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Main Gate A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_181907_005424_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:19:09.798Z",
+    "id": "43dfa6cb-7319-4364-9616-41f708a1013d",
+    "created_date": "2026-09-10T14:19:09.816443+00:00",
+    "updated_date": "2026-09-10T14:19:09.816443+00:00"
+  },
+  {
+    "worker_id": "a7a47e9e-0b44-44c8-bcd9-3ee783d18192",
+    "worker_name": "Abdulla Al Tunaiji",
+    "department": "maintenance",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "resolved",
+    "entry_point": "Tool Crib",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180623_708526_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:06:24.743Z",
+    "id": "76382fbe-2c06-4894-80e6-5f0f31521478",
+    "created_date": "2026-09-10T14:06:24.754600+00:00",
+    "updated_date": "2026-09-10T14:14:48.775487+00:00",
+    "resolved_at": "2026-09-10T14:14:48.755Z"
+  },
+  {
+    "worker_id": "258d6dec-4fd0-4b25-bce0-ccbfb3273b57",
+    "worker_name": "Reem Al Hosani",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Chemical Storage B",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180618_136965_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:06:19.205Z",
+    "id": "521ae378-cbf5-4fff-96f5-ba6eacd8e9f5",
+    "created_date": "2026-09-10T14:06:19.218731+00:00",
+    "updated_date": "2026-09-10T14:06:19.218731+00:00"
+  },
+  {
+    "worker_id": "49665eb4-852f-48cc-912d-923765aa5d73",
+    "worker_name": "Hamdan Al Romaithi",
+    "department": "assembly",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Assembly QA Station",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180523_924338_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:05:24.908Z",
+    "id": "8d69f71d-6b92-44b6-ae48-1cc313f57a1a",
+    "created_date": "2026-09-10T14:05:24.922852+00:00",
+    "updated_date": "2026-09-10T14:05:24.922852+00:00"
+  },
+  {
+    "worker_id": "0b119839-507b-49cf-86ec-ddbd3e45cdf8",
+    "worker_name": "Meera Al Ali",
+    "department": "electrical",
+    "missing_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Switchgear Room",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180510_104701_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:05:11.135Z",
+    "id": "73d2368e-2438-47af-9d64-e1427010d256",
+    "created_date": "2026-09-10T14:05:11.150051+00:00",
+    "updated_date": "2026-09-10T14:05:11.150051+00:00"
+  },
+  {
+    "worker_id": "fbdeccee-541f-4bfc-85fb-d5dc768092e1",
+    "worker_name": "Salem Al Ameri",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Night Shift Gate",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180350_488003_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:03:51.473Z",
+    "id": "e572d02b-5dde-4acb-81db-eb81eb382877",
+    "created_date": "2026-09-10T14:03:51.486131+00:00",
+    "updated_date": "2026-09-10T14:03:51.486131+00:00"
+  },
+  {
+    "worker_id": "25cfe52c-a6ca-417d-b138-e5aebfd371ab",
+    "worker_name": "Dana Al Nahyan",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Chemical Storage A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180347_679117_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:03:48.691Z",
+    "id": "3b47a6e7-8f19-4fe3-aabe-4bc83adbf814",
+    "created_date": "2026-09-10T14:03:48.704972+00:00",
+    "updated_date": "2026-09-10T14:03:48.704972+00:00"
+  },
+  {
+    "worker_id": "20f2e790-dbdb-4930-934f-c9f5a49a8d81",
+    "worker_name": "Ibrahim Al Hammadi",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "medium",
+    "status": "open",
+    "entry_point": "Maintenance Bay 1",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180210_206902_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:02:11.215Z",
+    "id": "81a5e06b-b3cd-4fea-aa1e-8e515f9f3274",
+    "created_date": "2026-09-10T14:02:11.224550+00:00",
+    "updated_date": "2026-09-10T14:02:11.224550+00:00"
+  },
+  {
+    "worker_id": "dad530d7-6e24-4610-b8f7-e8f9bcda5ddf",
+    "worker_name": "Omar Al Mansoori",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Main Gate B",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180203_863971_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:02:05.102Z",
+    "id": "cc540e27-1845-4a98-a691-1cb3ba2b1486",
+    "created_date": "2026-09-10T14:02:05.116484+00:00",
+    "updated_date": "2026-09-10T14:02:05.116484+00:00"
+  },
+  {
+    "worker_id": "f7675da5-8d75-45ab-8ddb-d6c82ddcbd95",
+    "worker_name": "Fatima Al Suwaidi",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "helmet",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "gloves",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Waste Handling",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180033_770337_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:00:34.733Z",
+    "id": "97ccbee5-d487-4e8f-b941-3a59f1c5bf4d",
+    "created_date": "2026-09-10T14:00:34.744712+00:00",
+    "updated_date": "2026-09-10T14:00:34.744712+00:00"
+  },
+  {
+    "worker_id": "a278c922-4a82-4e02-95a9-90a5c702f0f0",
+    "worker_name": "Hassan Al Nuaimi",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180026_957151_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:00:27.976Z",
+    "id": "da3e058d-7536-4921-ae59-ebc559cd870c",
+    "created_date": "2026-09-10T14:00:27.988426+00:00",
+    "updated_date": "2026-09-10T14:00:27.988426+00:00"
+  },
+  {
+    "worker_id": "9ac28174-88fe-4362-8b99-ba0bca0603d2",
+    "worker_name": "Mariam Al Blooshi",
+    "department": "assembly",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "helmet",
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Assembly QA Station",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180014_088582_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:00:15.159Z",
+    "id": "7e664c96-ecf0-46da-9c21-9bc7887ed48a",
+    "created_date": "2026-09-10T14:00:15.173099+00:00",
+    "updated_date": "2026-09-10T14:00:15.173099+00:00"
+  },
+  {
+    "worker_id": "6a34b2f7-7cfc-42e9-b548-aea8b4b3e3f8",
+    "worker_name": "Khalid Al Shamsi",
+    "department": "electrical",
+    "missing_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Electrical Workshop",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_180004_357153_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T14:00:05.354Z",
+    "id": "133d31f2-c165-4fb2-b54d-d2b3fba405e1",
+    "created_date": "2026-09-10T14:00:05.368890+00:00",
+    "updated_date": "2026-09-10T14:00:05.368890+00:00"
+  },
+  {
+    "worker_id": "3bedb756-8430-4b56-8398-2f06380a8731",
+    "worker_name": "Noura Al Kaabi",
+    "department": "warehouse",
+    "missing_gear": [
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "gloves",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "severity": "high",
+    "status": "open",
+    "entry_point": "Ware house",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175801_535875_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:58:02.603Z",
+    "id": "d652af85-fc2f-4ead-99a7-074a8464769c",
+    "created_date": "2026-09-10T13:58:02.621021+00:00",
+    "updated_date": "2026-09-10T13:58:02.621021+00:00"
+  },
+  {
+    "worker_id": "552f49ee-355e-4080-9bbb-e6cb5c74b23b",
+    "worker_name": "Yousef Al Dhaheri",
+    "department": "maintenance",
+    "missing_gear": [
+      "gloves",
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Roof Access East",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175756_043210_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:57:57.005Z",
+    "id": "5db22cb3-47c3-421e-8ec1-5bb20251e767",
+    "created_date": "2026-09-10T13:57:57.018853+00:00",
+    "updated_date": "2026-09-10T13:57:57.018853+00:00"
+  },
+  {
+    "worker_id": "2b655ae5-6ef0-48bc-9a3c-e979ed805d08",
+    "worker_name": "Layla Al Mazrouei",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175740_225857_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:57:41.202Z",
+    "id": "4da7185b-9b56-45bf-95d1-4c321b332b4c",
+    "created_date": "2026-09-10T13:57:41.215426+00:00",
+    "updated_date": "2026-09-10T13:57:41.215426+00:00"
+  },
+  {
+    "worker_id": "09d6d44d-361f-4ad6-98e9-14ad633c48b6",
+    "worker_name": "Saeed Al Qubaisi",
+    "department": "assembly",
+    "missing_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Paint Booth",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175733_696138_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:57:34.634Z",
+    "id": "8217f3fe-fc11-47a6-b9cc-5407f44604ba",
+    "created_date": "2026-09-10T13:57:34.645506+00:00",
+    "updated_date": "2026-09-10T13:57:34.645506+00:00"
+  },
+  {
+    "worker_id": "6dfd4583-bf61-4962-b7d0-ee49295a89f3",
+    "worker_name": "Hessa Al Ketbi",
+    "department": "electrical",
+    "missing_gear": [
+      "safety_vest",
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Transformer Yard",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175716_655644_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:57:17.690Z",
+    "id": "9a8ad848-5122-410b-8444-08d0ee446bb4",
+    "created_date": "2026-09-10T13:57:17.704681+00:00",
+    "updated_date": "2026-09-10T13:57:17.704681+00:00"
+  },
+  {
+    "worker_id": "aa9578a0-3428-4eef-a419-1ecca7b0620a",
+    "worker_name": "Majid Al Falasi",
+    "department": "warehouse",
+    "missing_gear": [
+      "safety_vest"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "safety_vest"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Visitor Entrance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175711_183632_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:57:12.172Z",
+    "id": "6e8cfb9c-6c86-4bfc-a5d2-87388a37b28e",
+    "created_date": "2026-09-10T13:57:12.184711+00:00",
+    "updated_date": "2026-09-10T13:57:12.184711+00:00"
+  },
+  {
+    "worker_id": "c702f2a4-c2f6-482e-9dc0-c873338cbaae",
+    "worker_name": "Amina Al Shehhi",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "helmet",
+      "goggles",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "gloves",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Waste Handling",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175704_855450_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:57:05.819Z",
+    "id": "23c4b503-8fa2-416e-bebd-c67c6f3219b9",
+    "created_date": "2026-09-10T13:57:05.841551+00:00",
+    "updated_date": "2026-09-10T13:57:05.841551+00:00"
+  },
+  {
+    "worker_id": "5da50b13-b6ee-4486-96bb-8f99efc506c7",
+    "worker_name": "Rashid Al Harmoudi",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175657_193740_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:56:58.418Z",
+    "id": "785adb70-8468-4753-b78b-b022fc5c38de",
+    "created_date": "2026-09-10T13:56:58.442805+00:00",
+    "updated_date": "2026-09-10T13:56:58.442805+00:00"
+  },
+  {
+    "worker_id": "0c58f718-9040-401d-b771-03ca53205d69",
+    "worker_name": "Moza Al Zaabi",
+    "department": "assembly",
+    "missing_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Assembly Line North",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175501_860649_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:55:02.800Z",
+    "id": "e1db0f5c-b2d0-4e8b-aa5e-ce67ba77b66c",
+    "created_date": "2026-09-10T13:55:02.812429+00:00",
+    "updated_date": "2026-09-10T13:55:02.812429+00:00"
+  },
+  {
+    "worker_id": "125d2650-625c-42a8-9d80-14383773c869",
+    "worker_name": "Tariq Al Marri",
+    "department": "electrical",
+    "missing_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Switchgear Room",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175456_818585_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:54:57.825Z",
+    "id": "b78016d4-bacd-418b-baf6-d6e64ef6adde",
+    "created_date": "2026-09-10T13:54:57.837612+00:00",
+    "updated_date": "2026-09-10T13:54:57.837612+00:00"
+  },
+  {
+    "worker_id": "239cca9a-d575-4219-97ec-aafe1d212620",
+    "worker_name": "Shaikha Al Muhairi",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Loading Dock 1",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175449_119467_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:54:50.099Z",
+    "id": "5c685769-b985-4a4b-9dac-897a17683cfb",
+    "created_date": "2026-09-10T13:54:50.114872+00:00",
+    "updated_date": "2026-09-10T13:54:50.114872+00:00"
+  },
+  {
+    "worker_id": "a7a47e9e-0b44-44c8-bcd9-3ee783d18192",
+    "worker_name": "Abdulla Al Tunaiji",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Roof Access East",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175425_663021_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:54:26.865Z",
+    "id": "347a0666-44e8-4017-b346-e265358d8747",
+    "created_date": "2026-09-10T13:54:26.881000+00:00",
+    "updated_date": "2026-09-10T13:54:26.881000+00:00"
+  },
+  {
+    "worker_id": "258d6dec-4fd0-4b25-bce0-ccbfb3273b57",
+    "worker_name": "Reem Al Hosani",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "goggles",
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical lab",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175341_183592_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:53:42.349Z",
+    "id": "8e962cb6-b6ac-4372-a1ae-ab87545c087a",
+    "created_date": "2026-09-10T13:53:42.364835+00:00",
+    "updated_date": "2026-09-10T13:53:42.364835+00:00"
+  },
+  {
+    "worker_id": "49665eb4-852f-48cc-912d-923765aa5d73",
+    "worker_name": "Hamdan Al Romaithi",
+    "department": "assembly",
+    "missing_gear": [
+      "helmet",
+      "goggles"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Assembly Line South",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_175329_110953_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:53:30.144Z",
+    "id": "a32c4fe9-2cb6-4fe7-b211-53144c121274",
+    "created_date": "2026-09-10T13:53:30.158653+00:00",
+    "updated_date": "2026-09-10T13:53:30.158653+00:00"
+  },
+  {
+    "worker_id": "0b119839-507b-49cf-86ec-ddbd3e45cdf8",
+    "worker_name": "Meera Al Ali",
+    "department": "electrical",
+    "missing_gear": [
+      "goggles"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Electrical Workshop",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_174913_306717_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:49:14.422Z",
+    "id": "34e9c5cc-4bbd-45ec-b0b2-45b4638aae14",
+    "created_date": "2026-09-10T13:49:14.443521+00:00",
+    "updated_date": "2026-09-10T13:49:14.443521+00:00"
+  },
+  {
+    "worker_id": "fbdeccee-541f-4bfc-85fb-d5dc768092e1",
+    "worker_name": "Salem Al Ameri",
+    "department": "warehouse",
+    "missing_gear": [
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Main Gate A",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_174848_434036_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:48:49.384Z",
+    "id": "faaf1b82-1aee-4cd3-9de7-6b9d109e0389",
+    "created_date": "2026-09-10T13:48:49.424271+00:00",
+    "updated_date": "2026-09-10T13:48:49.424271+00:00"
+  },
+  {
+    "worker_id": "25cfe52c-a6ca-417d-b138-e5aebfd371ab",
+    "worker_name": "Dana Al Nahyan",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "goggles",
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [
+      "helmet"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "gloves",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Waste Handling",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260910_174812_592254_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-10T13:48:14.783Z",
+    "id": "e7fcd1f7-b9dd-4982-af9d-f968ca9dbe27",
+    "created_date": "2026-09-10T13:48:14.810902+00:00",
+    "updated_date": "2026-09-10T13:48:14.810902+00:00"
+  },
+  {
+    "worker_id": "20f2e790-dbdb-4930-934f-c9f5a49a8d81",
+    "worker_name": "Ibrahim Al Hammadi",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet",
+      "gloves"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Maintainance",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260908_102002_079341_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-08T06:20:08.299Z",
+    "id": "95ca9432-09f7-4e72-aff5-5991ed0f3992",
+    "created_date": "2026-09-08T06:20:08.314970+00:00",
+    "updated_date": "2026-09-08T15:01:30.340389+00:00",
+    "resolved_at": "2026-09-08T15:01:30.327Z"
+  },
+  {
+    "worker_id": "dad530d7-6e24-4610-b8f7-e8f9bcda5ddf",
+    "worker_name": "Omar Al Mansoori",
+    "department": "warehouse",
+    "missing_gear": [
+      "helmet",
+      "gloves",
+      "ear_protection"
+    ],
+    "detected_gear": [
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "severity": "critical",
+    "status": "resolved",
+    "entry_point": "Loading Dock 2",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260908_101922_211507_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-08T06:19:28.424Z",
+    "id": "af56b46b-0730-46e2-9c9d-3a1095aa0e4d",
+    "created_date": "2026-09-08T06:19:28.462042+00:00",
+    "updated_date": "2026-09-08T15:01:31.155911+00:00",
+    "resolved_at": "2026-09-08T15:01:31.140Z"
+  },
+  {
+    "worker_id": "f7675da5-8d75-45ab-8ddb-d6c82ddcbd95",
+    "worker_name": "Fatima Al Suwaidi",
+    "department": "chemical_lab",
+    "missing_gear": [
+      "goggles",
+      "gloves",
+      "lab_coat"
+    ],
+    "detected_gear": [],
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Chemical Storage B",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260908_101911_229867_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-08T06:19:17.441Z",
+    "id": "db90a8b5-4422-4f9c-b01a-f2390fb8abfd",
+    "created_date": "2026-09-08T06:19:17.461175+00:00",
+    "updated_date": "2026-09-08T06:19:17.461175+00:00"
+  },
+  {
+    "worker_id": "a278c922-4a82-4e02-95a9-90a5c702f0f0",
+    "worker_name": "Hassan Al Nuaimi",
+    "department": "maintenance",
+    "missing_gear": [
+      "helmet"
+    ],
+    "detected_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Maintenance Bay 2",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260908_101847_095486_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-08T06:18:53.317Z",
+    "id": "00e437c2-ec01-4bf0-80fc-bc2b8e0d5c6d",
+    "created_date": "2026-09-08T06:18:53.353856+00:00",
+    "updated_date": "2026-09-08T06:18:53.353856+00:00"
+  },
+  {
+    "worker_id": "9ac28174-88fe-4362-8b99-ba0bca0603d2",
+    "worker_name": "Mariam Al Blooshi",
+    "department": "assembly",
+    "missing_gear": [
+      "goggles",
+      "gloves"
+    ],
+    "detected_gear": [
+      "helmet",
+      "safety_vest"
+    ],
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "severity": "critical",
+    "status": "open",
+    "entry_point": "Assembly Line South",
+    "screenshot_url": "http://127.0.0.1:8000/uploads/20260908_101825_901656_scan.jpg",
+    "notes": "PPE check complete.",
+    "incident_time": "2026-09-08T06:18:32.135Z",
+    "id": "5f1db08e-6bc6-4fe4-9e6c-8d4b53d27f76",
+    "created_date": "2026-09-08T06:18:32.173495+00:00",
+    "updated_date": "2026-09-08T06:18:32.173495+00:00"
+  }
+]

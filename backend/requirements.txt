@@ -1,0 +1,10 @@
+fastapi==0.139.0
+uvicorn==0.50.2
+python-multipart==0.0.32
+python-dotenv==1.2.2
+pillow==12.3.0
+ultralytics==8.4.90
+opencv-python==5.0.0.93
+deepface==0.0.100
+tf-keras==2.21.0
+pytest==8.4.2

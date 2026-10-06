@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-sans: 'Inter', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+    --background: 204 26% 96%;
+    --foreground: 221 38% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 221 38% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 221 38% 15%;
+    --primary: 21 90% 48%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 20% 94%;
+    --secondary-foreground: 221 38% 15%;
+    --muted: 210 20% 94%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 204 26% 94%;
+    --accent-foreground: 221 38% 15%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214 18% 88%;
+    --input: 214 18% 88%;
+    --ring: 21 90% 48%;
+    --chart-1: 21 90% 48%;
+    --chart-2: 175 84% 32%;
+    --chart-3: 0 72% 51%;
+    --chart-4: 221 39% 11%;
+    --chart-5: 215 16% 47%;
+    --radius: 0.75rem;
+    --sidebar-background: 221 39% 11%;
+    --sidebar-foreground: 210 20% 96%;
+    --sidebar-primary: 21 90% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 221 32% 16%;
+    --sidebar-accent-foreground: 210 20% 96%;
+    --sidebar-border: 221 32% 16%;
+    --sidebar-ring: 21 90% 48%;
+    --success: 175 84% 32%;
+    --success-foreground: 0 0% 100%;
+    --warning: 36 100% 50%;
+    --warning-foreground: 0 0% 100%;
+  }
+
+  .dark {
+    --background: 28 20% 10%;
+    --foreground: 32 30% 96%;
+    --card: 28 18% 12%;
+    --card-foreground: 32 30% 96%;
+    --popover: 28 18% 12%;
+    --popover-foreground: 32 30% 96%;
+    --primary: 21 90% 48%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 28 16% 18%;
+    --secondary-foreground: 32 30% 96%;
+    --muted: 28 14% 16%;
+    --muted-foreground: 32 12% 70%;
+    --accent: 28 30% 22%;
+    --accent-foreground: 32 30% 96%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 28 14% 22%;
+    --input: 28 14% 22%;
+    --ring: 21 90% 48%;
+    --chart-1: 21 90% 48%;
+    --chart-2: 175 84% 32%;
+    --chart-3: 0 72% 51%;
+    --chart-4: 221 39% 11%;
+    --chart-5: 215 16% 47%;
+    --sidebar-background: 221 39% 8%;
+    --sidebar-foreground: 210 20% 96%;
+    --sidebar-primary: 21 90% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 28 18% 16%;
+    --sidebar-accent-foreground: 32 30% 96%;
+    --sidebar-border: 28 16% 18%;
+    --sidebar-ring: 21 90% 48%;
+    --success: 175 84% 32%;
+    --success-foreground: 0 0% 100%;
+    --warning: 36 100% 50%;
+    --warning-foreground: 0 0% 100%;
+  }
+}
+
+
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  input[type="password"]::-ms-reveal,
+  input[type="password"]::-ms-clear {
+    display: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .animate-pulse,
+    .sg-border-flow::before,
+    .sg-card-sheen::after,
+    .sg-page-enter {
+      animation: none !important;
+    }
+  }
+}
+
+@property --sg-angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
+@keyframes sg-spin-border {
+  to {
+    --sg-angle: 360deg;
+  }
+}
+
+@keyframes sg-line-travel {
+  0% {
+    background-position: -50% 0;
+  }
+  100% {
+    background-position: 150% 0;
+  }
+}
+
+@keyframes sg-page-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.sg-page-enter {
+  animation: sg-page-in 0.45s ease-out both;
+}
+
+.sg-border-flow {
+  position: relative;
+  isolation: isolate;
+}
+
+.sg-border-flow::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  z-index: 1;
+  border-radius: inherit;
+  padding: 1px;
+  pointer-events: none;
+  background: conic-gradient(
+    from var(--sg-angle),
+    transparent 0%,
+    transparent 58%,
+    hsl(var(--sg-flow, var(--primary)) / 0.15) 68%,
+    hsl(var(--sg-flow, var(--primary)) / 0.9) 78%,
+    hsl(0 0% 100% / 0.75) 84%,
+    hsl(var(--sg-flow, var(--primary)) / 0.35) 90%,
+    transparent 100%
+  );
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: sg-spin-border 6.5s linear infinite;
+  animation-delay: var(--sg-delay, 0s);
+}
+
+.sg-card-sheen {
+  position: relative;
+}
+
+.sg-card-sheen::after {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 1px;
+  pointer-events: none;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    hsl(var(--primary) / 0.15) 30%,
+    hsl(var(--primary) / 0.85) 50%,
+    hsl(0 0% 100% / 0.7) 58%,
+    hsl(var(--primary) / 0.15) 70%,
+    transparent 100%
+  );
+  background-size: 45% 100%;
+  background-repeat: no-repeat;
+  animation: sg-line-travel 4.8s ease-in-out infinite;
+}

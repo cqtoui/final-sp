@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Ware house",
+    "location": "BUILDING 7 , floor8",
+    "department": "warehouse",
+    "camera_status": "online",
+    "required_gear": [
+      "gloves",
+      "safety_vest",
+      "ear_protection"
+    ],
+    "id": "e6961994-5b96-4849-a5d1-b0c06943fbf8",
+    "created_date": "2026-09-10T14:01:46.192512+00:00",
+    "updated_date": "2026-10-06T09:31:06.177512+00:00",
+    "scans_today": 37,
+    "violations_today": 28
+  },
+  {
+    "name": "Maintainance",
+    "location": "Building 8,floor 7",
+    "department": "maintenance",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "id": "d351377f-c1ae-48ad-aef7-7061e8e5c6e3",
+    "created_date": "2026-09-10T14:01:24.229276+00:00",
+    "updated_date": "2026-10-06T09:32:21.863848+00:00",
+    "scans_today": 74,
+    "violations_today": 52
+  },
+  {
+    "name": "Chemical lab",
+    "location": "building 8, floor 9",
+    "department": "chemical_lab",
+    "camera_status": "online",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "id": "e5de159c-a708-4817-bfea-d605b8db1526",
+    "created_date": "2026-09-10T14:01:02.332177+00:00",
+    "updated_date": "2026-10-06T09:40:26.244971+00:00",
+    "scans_today": 72,
+    "violations_today": 56
+  },
+  {
+    "id": "default-entry",
+    "name": "Default Entry",
+    "department": "General",
+    "location": "",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "scans_today": 36,
+    "violations_today": 36,
+    "created_date": "2026-09-07T16:36:38.374115+00:00",
+    "updated_date": "2026-10-05T13:08:56.906347+00:00"
+  },
+  {
+    "id": "3381bd80-8b2a-4596-afcb-0ecb2a8e1b06",
+    "name": "Main Gate A",
+    "location": "Building 1, Ground Floor",
+    "department": "warehouse",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-08-27T17:04:47.209441+00:00",
+    "updated_date": "2026-10-05T12:44:13.367466+00:00",
+    "scans_today": 4,
+    "violations_today": 4
+  },
+  {
+    "id": "3b093e80-2004-47d5-b90f-6779dc30630c",
+    "name": "Main Gate B",
+    "location": "Building 1, East Entrance",
+    "department": "warehouse",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-08-28T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 5,
+    "violations_today": 2
+  },
+  {
+    "id": "955a7fd2-fb50-4e4a-8d61-34ac13021440",
+    "name": "Loading Dock 1",
+    "location": "Building 2, Bay A",
+    "department": "warehouse",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "created_date": "2026-08-29T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 10,
+    "violations_today": 4
+  },
+  {
+    "id": "3a48cc93-5cac-4c30-89b4-30b248de5d9c",
+    "name": "Loading Dock 2",
+    "location": "Building 2, Bay B",
+    "department": "warehouse",
+    "camera_status": "maintenance",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "created_date": "2026-08-30T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 15,
+    "violations_today": 6
+  },
+  {
+    "id": "ca3f54d4-615c-44b3-843a-66044f209c2c",
+    "name": "Assembly Line North",
+    "location": "Building 3, Floor 1",
+    "department": "assembly",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-08-31T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 20,
+    "violations_today": 8
+  },
+  {
+    "id": "e53b563d-95b8-48e0-a7e1-fa512f7868ec",
+    "name": "Assembly Line South",
+    "location": "Building 3, Floor 1",
+    "department": "assembly",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-01T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 1,
+    "violations_today": 1
+  },
+  {
+    "id": "47fb9087-b774-4a68-8aae-fa62c49ae515",
+    "name": "Assembly QA Station",
+    "location": "Building 3, Floor 2",
+    "department": "assembly",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-02T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 6,
+    "violations_today": 3
+  },
+  {
+    "id": "b59467f5-8995-4e05-a8d2-805a5418d0a4",
+    "name": "Electrical Workshop",
+    "location": "Building 4, Floor 1",
+    "department": "electrical",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-03T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 11,
+    "violations_today": 5
+  },
+  {
+    "id": "c8cee699-31b7-454a-9fbf-18c87dcc39f6",
+    "name": "Switchgear Room",
+    "location": "Building 4, Basement",
+    "department": "electrical",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-04T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 16,
+    "violations_today": 7
+  },
+  {
+    "id": "40a5ee3c-35d3-447a-9d88-3a0d41bd1db9",
+    "name": "Transformer Yard",
+    "location": "Outdoor Yard, East",
+    "department": "electrical",
+    "camera_status": "offline",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "created_date": "2026-09-05T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 21,
+    "violations_today": 0
+  },
+  {
+    "id": "e62fef08-a4aa-4e0f-bab7-623123fb59cd",
+    "name": "Paint Booth",
+    "location": "Building 5, Floor 1",
+    "department": "assembly",
+    "camera_status": "online",
+    "required_gear": [
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-06T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 2,
+    "violations_today": 2
+  },
+  {
+    "id": "5a25a9ed-3a62-448d-bc81-1b1b3f501256",
+    "name": "Tool Crib",
+    "location": "Building 5, Floor 2",
+    "department": "maintenance",
+    "camera_status": "online",
+    "required_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-07T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 7,
+    "violations_today": 4
+  },
+  {
+    "id": "83e2528c-095a-426f-aac0-16203f3a827d",
+    "name": "Maintenance Bay 1",
+    "location": "Building 6, Floor 1",
+    "department": "maintenance",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-08T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 12,
+    "violations_today": 6
+  },
+  {
+    "id": "5ce6afbc-90da-4f18-85e8-abf0ba3e2998",
+    "name": "Maintenance Bay 2",
+    "location": "Building 6, Floor 1",
+    "department": "maintenance",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-09T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 17,
+    "violations_today": 8
+  },
+  {
+    "id": "54eac59e-fff7-42fe-9969-98256eae4999",
+    "name": "Roof Access East",
+    "location": "Building 6, Roof",
+    "department": "maintenance",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "created_date": "2026-09-10T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 22,
+    "violations_today": 1
+  },
+  {
+    "id": "8fb610c7-d68b-4c3a-8f03-5e1ed40c178f",
+    "name": "Chemical Storage A",
+    "location": "Building 8, Floor 8",
+    "department": "chemical_lab",
+    "camera_status": "online",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "created_date": "2026-09-11T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 3,
+    "violations_today": 3
+  },
+  {
+    "id": "ecbc3a5b-dd41-4577-9a69-989e2ecd8341",
+    "name": "Chemical Storage B",
+    "location": "Building 8, Floor 8",
+    "department": "chemical_lab",
+    "camera_status": "online",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "created_date": "2026-09-12T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 8,
+    "violations_today": 5
+  },
+  {
+    "id": "c639a3cc-8ee1-43ff-ab67-ddf6c5588ab0",
+    "name": "Lab Corridor 9A",
+    "location": "Building 8, Floor 9",
+    "department": "chemical_lab",
+    "camera_status": "online",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "created_date": "2026-09-13T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 13,
+    "violations_today": 7
+  },
+  {
+    "id": "b512f2fa-fb68-46b4-a810-13fa6a1a745c",
+    "name": "Waste Handling",
+    "location": "Building 9, Ground Floor",
+    "department": "chemical_lab",
+    "camera_status": "maintenance",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "gloves",
+      "lab_coat"
+    ],
+    "created_date": "2026-09-14T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 18,
+    "violations_today": 0
+  },
+  {
+    "id": "327b489a-dd3a-441d-aa96-8e69939e3f90",
+    "name": "Visitor Entrance",
+    "location": "Building 1, Lobby",
+    "department": "warehouse",
+    "camera_status": "online",
+    "required_gear": [
+      "safety_vest"
+    ],
+    "created_date": "2026-09-15T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 23,
+    "violations_today": 2
+  },
+  {
+    "id": "e441c2b9-333a-45ff-94ad-6b5e0612ef76",
+    "name": "Night Shift Gate",
+    "location": "Perimeter Road, North",
+    "department": "warehouse",
+    "camera_status": "online",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "created_date": "2026-09-16T17:04:47.209441+00:00",
+    "updated_date": "2026-09-17T17:04:47.209441+00:00",
+    "scans_today": 4,
+    "violations_today": 4
+  }
+]

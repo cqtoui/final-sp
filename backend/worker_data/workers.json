@@ -1,0 +1,440 @@
+[
+  {
+    "id": "dad530d7-6e24-4610-b8f7-e8f9bcda5ddf",
+    "full_name": "Omar Al Mansoori",
+    "employee_id": "EMP-0101",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "dad530d7-6e24-4610-b8f7-e8f9bcda5ddf.jpg",
+    "total_scans": 4,
+    "total_violations": 3,
+    "compliance_rate": 94
+  },
+  {
+    "id": "f7675da5-8d75-45ab-8ddb-d6c82ddcbd95",
+    "full_name": "Fatima Al Suwaidi",
+    "employee_id": "EMP-0102",
+    "department": "chemical_lab",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "f7675da5-8d75-45ab-8ddb-d6c82ddcbd95.jpg",
+    "total_scans": 7,
+    "total_violations": 3,
+    "compliance_rate": 94
+  },
+  {
+    "id": "a278c922-4a82-4e02-95a9-90a5c702f0f0",
+    "full_name": "Hassan Al Nuaimi",
+    "employee_id": "EMP-0103",
+    "department": "maintenance",
+    "status": "active",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "photo_filename": "a278c922-4a82-4e02-95a9-90a5c702f0f0.jpg",
+    "total_scans": 10,
+    "total_violations": 3,
+    "compliance_rate": 94
+  },
+  {
+    "id": "9ac28174-88fe-4362-8b99-ba0bca0603d2",
+    "full_name": "Mariam Al Blooshi",
+    "employee_id": "EMP-0104",
+    "department": "assembly",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "9ac28174-88fe-4362-8b99-ba0bca0603d2.jpg",
+    "total_scans": 13,
+    "total_violations": 3,
+    "compliance_rate": 94
+  },
+  {
+    "id": "6a34b2f7-7cfc-42e9-b548-aea8b4b3e3f8",
+    "full_name": "Khalid Al Shamsi",
+    "employee_id": "EMP-0105",
+    "department": "electrical",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "6a34b2f7-7cfc-42e9-b548-aea8b4b3e3f8.jpg",
+    "total_scans": 16,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "3bedb756-8430-4b56-8398-2f06380a8731",
+    "full_name": "Noura Al Kaabi",
+    "employee_id": "EMP-0106",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "3bedb756-8430-4b56-8398-2f06380a8731.jpg",
+    "total_scans": 19,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "552f49ee-355e-4080-9bbb-e6cb5c74b23b",
+    "full_name": "Yousef Al Dhaheri",
+    "employee_id": "EMP-0107",
+    "department": "maintenance",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "552f49ee-355e-4080-9bbb-e6cb5c74b23b.jpg",
+    "total_scans": 22,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "2b655ae5-6ef0-48bc-9a3c-e979ed805d08",
+    "full_name": "Layla Al Mazrouei",
+    "employee_id": "EMP-0108",
+    "department": "chemical_lab",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "2b655ae5-6ef0-48bc-9a3c-e979ed805d08.jpg",
+    "total_scans": 25,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "09d6d44d-361f-4ad6-98e9-14ad633c48b6",
+    "full_name": "Saeed Al Qubaisi",
+    "employee_id": "EMP-0109",
+    "department": "assembly",
+    "status": "active",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "photo_filename": "09d6d44d-361f-4ad6-98e9-14ad633c48b6.jpg",
+    "total_scans": 28,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "6dfd4583-bf61-4962-b7d0-ee49295a89f3",
+    "full_name": "Hessa Al Ketbi",
+    "employee_id": "EMP-0110",
+    "department": "electrical",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "6dfd4583-bf61-4962-b7d0-ee49295a89f3.jpg",
+    "total_scans": 31,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "aa9578a0-3428-4eef-a419-1ecca7b0620a",
+    "full_name": "Majid Al Falasi",
+    "employee_id": "EMP-0111",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "aa9578a0-3428-4eef-a419-1ecca7b0620a.jpg",
+    "total_scans": 6,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "c702f2a4-c2f6-482e-9dc0-c873338cbaae",
+    "full_name": "Amina Al Shehhi",
+    "employee_id": "EMP-0112",
+    "department": "chemical_lab",
+    "status": "active",
+    "required_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "c702f2a4-c2f6-482e-9dc0-c873338cbaae.jpg",
+    "total_scans": 9,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "5da50b13-b6ee-4486-96bb-8f99efc506c7",
+    "full_name": "Rashid Al Harmoudi",
+    "employee_id": "EMP-0113",
+    "department": "maintenance",
+    "status": "inactive",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "5da50b13-b6ee-4486-96bb-8f99efc506c7.jpg",
+    "total_scans": 12,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "0c58f718-9040-401d-b771-03ca53205d69",
+    "full_name": "Moza Al Zaabi",
+    "employee_id": "EMP-0114",
+    "department": "assembly",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "0c58f718-9040-401d-b771-03ca53205d69.jpg",
+    "total_scans": 15,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "125d2650-625c-42a8-9d80-14383773c869",
+    "full_name": "Tariq Al Marri",
+    "employee_id": "EMP-0115",
+    "department": "electrical",
+    "status": "active",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "photo_filename": "125d2650-625c-42a8-9d80-14383773c869.jpg",
+    "total_scans": 18,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "239cca9a-d575-4219-97ec-aafe1d212620",
+    "full_name": "Shaikha Al Muhairi",
+    "employee_id": "EMP-0116",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "239cca9a-d575-4219-97ec-aafe1d212620.jpg",
+    "total_scans": 21,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "a7a47e9e-0b44-44c8-bcd9-3ee783d18192",
+    "full_name": "Abdulla Al Tunaiji",
+    "employee_id": "EMP-0117",
+    "department": "maintenance",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "a7a47e9e-0b44-44c8-bcd9-3ee783d18192.jpg",
+    "total_scans": 24,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "258d6dec-4fd0-4b25-bce0-ccbfb3273b57",
+    "full_name": "Reem Al Hosani",
+    "employee_id": "EMP-0118",
+    "department": "chemical_lab",
+    "status": "active",
+    "required_gear": [
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "258d6dec-4fd0-4b25-bce0-ccbfb3273b57.jpg",
+    "total_scans": 27,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "49665eb4-852f-48cc-912d-923765aa5d73",
+    "full_name": "Hamdan Al Romaithi",
+    "employee_id": "EMP-0119",
+    "department": "assembly",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "49665eb4-852f-48cc-912d-923765aa5d73.jpg",
+    "total_scans": 30,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "0b119839-507b-49cf-86ec-ddbd3e45cdf8",
+    "full_name": "Meera Al Ali",
+    "employee_id": "EMP-0120",
+    "department": "electrical",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves"
+    ],
+    "photo_filename": "0b119839-507b-49cf-86ec-ddbd3e45cdf8.jpg",
+    "total_scans": 5,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "fbdeccee-541f-4bfc-85fb-d5dc768092e1",
+    "full_name": "Salem Al Ameri",
+    "employee_id": "EMP-0121",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "gloves",
+      "goggles",
+      "lab_coat"
+    ],
+    "photo_filename": "fbdeccee-541f-4bfc-85fb-d5dc768092e1.jpg",
+    "total_scans": 8,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "25cfe52c-a6ca-417d-b138-e5aebfd371ab",
+    "full_name": "Dana Al Nahyan",
+    "employee_id": "EMP-0122",
+    "department": "chemical_lab",
+    "status": "suspended",
+    "required_gear": [
+      "helmet",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "25cfe52c-a6ca-417d-b138-e5aebfd371ab.jpg",
+    "total_scans": 11,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "20f2e790-dbdb-4930-934f-c9f5a49a8d81",
+    "full_name": "Ibrahim Al Hammadi",
+    "employee_id": "EMP-0123",
+    "department": "maintenance",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection"
+    ],
+    "photo_filename": "20f2e790-dbdb-4930-934f-c9f5a49a8d81.jpg",
+    "total_scans": 14,
+    "total_violations": 2,
+    "compliance_rate": 96
+  },
+  {
+    "id": "6c440818-b54c-4e5d-8054-6486238056a2",
+    "full_name": "Aisha",
+    "employee_id": "EMP-292",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "lab_coat",
+      "ear_protection"
+    ],
+    "photo_filename": "6c440818-b54c-4e5d-8054-6486238056a2.jpg",
+    "compliance_rate": 84,
+    "total_scans": 11,
+    "total_violations": 8
+  },
+  {
+    "id": "012b2771-6964-40a4-ade9-476e7e60a58e",
+    "full_name": "Aisha",
+    "employee_id": "WMP-299",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "ear_protection",
+      "lab_coat"
+    ],
+    "photo_filename": "012b2771-6964-40a4-ade9-476e7e60a58e.jpg",
+    "compliance_rate": 84,
+    "total_scans": 14,
+    "total_violations": 8
+  },
+  {
+    "id": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4",
+    "full_name": "Sara",
+    "employee_id": "EMP990",
+    "department": "warehouse",
+    "status": "active",
+    "required_gear": [
+      "helmet",
+      "goggles",
+      "safety_vest",
+      "gloves",
+      "lab_coat",
+      "ear_protection"
+    ],
+    "photo_filename": "eb82066f-ac83-4bd5-8d9c-144d44f93ab4.jpg",
+    "total_scans": 11,
+    "total_violations": 8,
+    "compliance_rate": 84
+  }
+]

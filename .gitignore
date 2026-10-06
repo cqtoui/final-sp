@@ -1,0 +1,46 @@
+#env
+.env
+.env.*
+
+# Logs
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.checkpoints/
+_dir_out.txt
+
+.env
+.vite
+backend/uploads/
+backend/worker_data/faces/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Keep PPE weights in git so the live app can be deployed.
+# Training videos stay private.
+# backend/models/*.pt
+
+# Private PPE training videos, test clips, and extracted frames.
+private_training/
+
