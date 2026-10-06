@@ -5,6 +5,7 @@ python-dotenv==1.2.2
 pillow==12.3.0
 ultralytics==8.4.90
 opencv-python-headless==5.0.0.93
-deepface==0.0.100
+tensorflow==2.19.0
 tf-keras==2.21.0
+deepface==0.0.100
 pytest==8.4.2
